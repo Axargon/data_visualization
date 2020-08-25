@@ -26,6 +26,18 @@ No momento estou trabalhando na minha segunda graduação em Bacharelado de Ciê
 * [LinkedIn](https://www.linkedin.com/in/alexarantesgoncalves/?locale=pt_BR)
 
 # Projetos:
+Veja os lista de alguns projetos construidos com PowerBi:
+
+* **[Relatório de Vendas](https://app.powerbi.com/view?r=eyJrIjoiN2ZmZWZlYTYtOTcyOS00YzQ1LWI1NDItYzZhZWU3NmRmZGY4IiwidCI6IjMxZDZmNTY4LTA1MWEtNDc4OS1iYWEwLTg4MGI5NTM1ZTFmNSJ9)**
+  * Dashboard construido para identificar produto mais vendido e faturamento por mês, marca e continente. Projetado para uma visão mais gerencial com informações necessárias para tomada de decisão. *[clique aqui](https://app.powerbi.com/view?r=eyJrIjoiN2ZmZWZlYTYtOTcyOS00YzQ1LWI1NDItYzZhZWU3NmRmZGY4IiwidCI6IjMxZDZmNTY4LTA1MWEtNDc4OS1iYWEwLTg4MGI5NTM1ZTFmNSJ9)*
+* **[Relatório Financeiro](https://app.powerbi.com/view?r=eyJrIjoiYzA0MzkzNjgtMzk2OS00MGM2LWEyZDYtOTFlNmQ3NmIxOGQ3IiwidCI6IjMxZDZmNTY4LTA1MWEtNDc4OS1iYWEwLTg4MGI5NTM1ZTFmNSJ9)**
+  *  Este dashboard foi criado para prover informações referentes a recebimentos e pagamentos mensais e por localidade, bem como calcular a margem,. *[clique aqui](https://app.powerbi.com/view?r=eyJrIjoiYzA0MzkzNjgtMzk2OS00MGM2LWEyZDYtOTFlNmQ3NmIxOGQ3IiwidCI6IjMxZDZmNTY4LTA1MWEtNDc4OS1iYWEwLTg4MGI5NTM1ZTFmNSJ9)*
+* **[Controle de estoque](https://app.powerbi.com/view?r=eyJrIjoiMWJkMmIwNjUtNTA0ZS00ZGU2LTkwYTktYWJjNWJiZGUwYjk0IiwidCI6IjMxZDZmNTY4LTA1MWEtNDc4OS1iYWEwLTg4MGI5NTM1ZTFmNSJ9)**
+  * Visando facilitar a visão operacional de controle de estoque, este dash foi criado para responder perguntas de quantidade de estoque por localização e data. Possui tambem o índice de rejeição aceitável de cada produto, que pode ser facilmente pesquisado pelo menu tipo dropdown e ter a sua imagem exposta para confirmação. .  *[clique aqui](https://app.powerbi.com/view?r=eyJrIjoiMWJkMmIwNjUtNTA0ZS00ZGU2LTkwYTktYWJjNWJiZGUwYjk0IiwidCI6IjMxZDZmNTY4LTA1MWEtNDc4OS1iYWEwLTg4MGI5NTM1ZTFmNSJ9)*
+* **[Relatório de RH](https://app.powerbi.com/view?r=eyJrIjoiMDY2NmEyMTAtNjBmMi00MjE4LWJmYjktNjllOWZjYmQ1NzY3IiwidCI6IjMxZDZmNTY4LTA1MWEtNDc4OS1iYWEwLTg4MGI5NTM1ZTFmNSJ9)**
+  * O intuito deste dash é prover visões gerais de contratções, desligamentos e rotatividade (%turnover).Utilizei de recurso de dica de ferramenta personalizada para prover informações de hora extra e folha de pagamento ao se passar o mouse no gráfico de funcionários ativos por cidade *[clique aqui](https://app.powerbi.com/view?r=eyJrIjoiMDY2NmEyMTAtNjBmMi00MjE4LWJmYjktNjllOWZjYmQ1NzY3IiwidCI6IjMxZDZmNTY4LTA1MWEtNDc4OS1iYWEwLTg4MGI5NTM1ZTFmNSJ9)*
+
+
 Veja os lista de alguns projetos construidos com Slemma:
 
 * **[Volume de inspeções](https://slemma.com/share/eca68174d41f8af8f5f1f23827f0ec858d34d365)**
