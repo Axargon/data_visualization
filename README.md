@@ -11,19 +11,17 @@
 [![contributions welcome](https://img.shields.io/badge/contributions-welcome-brightgreen.svg?style=flat)](axargon@gmail.com)
 
 # Alex Arantes Gonçalves
-<sub>*Estudante de Ciência de dados* na Univesp</sub>
+<sub>*Bacharel em Ciência e Tecnologia UFABC, estudante de Ciência de dados pelo SENAI*</sub>
 
 
-Como profissional em Ciências aplicadas com mais de 17 anos de experiência, possuo uma combinação de habilidades analíticas, capacidade de trabalho em equipe e atenção aos detalhes. Tendo recentemente direcionado minha carreira com sucesso para a área de Análise de dados, tenho adquirido as habilidades de extrair, transformar e carregar os mesmos de diversas origens e formatos para estruturas de dados em ambientes analiticos, e utiliza-los para criação de *dashboards* para visualização de informações no auxilio de tomada de decisões.
-
-No momento estou trabalhando na minha segunda graduação em Bacharelado de Ciência de dados na UNIVESP de São Paulo, eu já possuo Bacharelado em Ciência e Tecnologia pela Universidade Federal do ABC, uma das mais prestigiadas Universidades brasileiras.
+Apresentação de alguns projetos criados duranto os primeiros passos no aprendizado de ferramentas de maior demanda do mercado de trabalho.
 
 
 **Experiência em:** Consolidação e visualização de dados, programação em Python, e diversas técnicas de Ciência de dados.
 
 **Links:**
 
-* [LinkedIn](https://www.linkedin.com/in/alexarantesgoncalves/?locale=pt_BR)
+* [LinkedIn](https://www.linkedin.com/in/alex-a-goncalves/)
 
 # Projetos:
 Veja os lista de alguns projetos construidos com PowerBi:
