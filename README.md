@@ -14,7 +14,7 @@
 <sub>*Bacharel em Ciência e Tecnologia UFABC, estudante de Ciência de dados pelo SENAI*</sub>
 
 
-Apresentação de alguns projetos criados duranto os primeiros passos no aprendizado de ferramentas de maior demanda do mercado de trabalho.
+Apresentação de alguns projetos criados durante os primeiros passos no aprendizado de ferramentas de visualização de dados.
 
 
 **Experiência em:** Consolidação e visualização de dados, programação em Python, e diversas técnicas de Ciência de dados.
