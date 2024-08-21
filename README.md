@@ -11,19 +11,13 @@
 [![contributions welcome](https://img.shields.io/badge/contributions-welcome-brightgreen.svg?style=flat)](axargon@gmail.com)
 
 # Alex Arantes Gonçalves
-<sub>*Bacharel em Ciência e Tecnologia UFABC, estudante de Ciência de dados pelo SENAI*</sub>
-
 
 Apresentação de alguns projetos criados durante os primeiros passos no aprendizado de PowerBi.
 
 
 **Experiência em:** Consolidação e visualização de dados, programação em Python, e diversas técnicas de Ciência de dados.
 
-**Links:**
-
-* [LinkedIn](https://www.linkedin.com/in/alex-a-goncalves/)
-
-# Projetos:
+# Dashboards:
 Veja os lista de alguns projetos construidos com PowerBi:
 
 * **[Relatório de Vendas](https://app.powerbi.com/view?r=eyJrIjoiN2ZmZWZlYTYtOTcyOS00YzQ1LWI1NDItYzZhZWU3NmRmZGY4IiwidCI6IjMxZDZmNTY4LTA1MWEtNDc4OS1iYWEwLTg4MGI5NTM1ZTFmNSJ9)**
