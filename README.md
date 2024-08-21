@@ -8,7 +8,7 @@
 [![projeto](https://img.shields.io/badge/projeto-visualiza%C3%A7%C3%A3o%20de%20dados-red)](https://github.com/Axargon/data_visualization) 
 [![tecnologia2](https://img.shields.io/badge/tecnologia-powerBi-red)](https://powerbi.microsoft.com/en-us/) 
 [![contributions welcome](https://img.shields.io/badge/contributions-welcome-brightgreen.svg?style=flat)](axargon@gmail.com)
-<![![tecnologia](https://img.shields.io/badge/tecnologia-Slemma-blue)](https://slemma.com/)*>
+
 
 # Alex Arantes Gonçalves
 
@@ -39,7 +39,8 @@ Veja os lista de alguns projetos construidos com PowerBi:
 * **[Inspeções Sócio Ambientais](https://slemma.com/share/759a9137e9afc984809e76435d56356c136b96ed)**
   * Dash para controle de não conformidades sócio ambientais. Os KPIs solicitados pelo cliente por fórmula especifica leva em consideração gravidade e localização das não conformidades. Na última aba é possível encontrar uma tabela intearativa que descreve os detalhes das não conformidades filtradas.  *[clique aqui](https://slemma.com/share/759a9137e9afc984809e76435d56356c136b96ed)*
 * **[Volume de inspeções por geolocalização](https://slemma.com/share/a728033985c2529d91de887bf4e997750aaa6f8b)**
-  * Aproveitando-se dos dados coletados com o gps dos sistemas mobile ativados, foi possivel construir este dash com integração ao googlemaps por meio de um API construido para o sistema. O cliente necessitava de saber onde as inspeções estavam sendo realizadas. É possível escolher o tipo de inspeção, categoria e data para interagir com o mapa. *[clique aqui](https://slemma.com/share/a728033985c2529d91de887bf4e997750aaa6f8b)*>
+  * Aproveitando-se dos dados coletados com o gps dos sistemas mobile ativados, foi possivel construir este dash com integração ao googlemaps por meio de um API construido para o sistema. O cliente necessitava de saber onde as inspeções estavam sendo realizadas. É possível escolher o tipo de inspeção, categoria e data para interagir com o mapa. *[clique aqui](https://slemma.com/share/a728033985c2529d91de887bf4e997750aaa6f8b)
+[![tecnologia](https://img.shields.io/badge/tecnologia-Slemma-blue)](https://slemma.com/)*>
 
 
 
