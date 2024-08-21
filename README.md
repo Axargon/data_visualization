@@ -6,9 +6,9 @@
 
 [![author](https://img.shields.io/badge/autor-axargon-blue)](https://www.linkedin.com/in/alexarantesgoncalves/)
 [![projeto](https://img.shields.io/badge/projeto-visualiza%C3%A7%C3%A3o%20de%20dados-red)](https://github.com/Axargon/data_visualization) 
-<!--[![tecnologia](https://img.shields.io/badge/tecnologia-Slemma-blue)](https://slemma.com/)--*>
 [![tecnologia2](https://img.shields.io/badge/tecnologia-powerBi-red)](https://powerbi.microsoft.com/en-us/) 
 [![contributions welcome](https://img.shields.io/badge/contributions-welcome-brightgreen.svg?style=flat)](axargon@gmail.com)
+<!-[![tecnologia](https://img.shields.io/badge/tecnologia-Slemma-blue)](https://slemma.com/)-*>
 
 # Alex Arantes Gonçalves
 
